@@ -3,9 +3,21 @@ body
   font-family: Arial, sans-serif;
   text-align: center;
 }
-div.works
+.works
 {
   background-color: rgb(5, 5, 5);
   color: rgb(230, 230, 230);
   border-radius: 5px 6px 5px 5px;
+}
+.first-class
+{
+  text-align: none;
+}
+.second-class
+{
+  text-align: none;
+}
+.third-class
+{
+  text-align: none;
 }
